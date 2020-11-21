@@ -1,0 +1,118 @@
+@media (max-width: 1199px){
+	.navbar-light .navbar-nav .nav-link { 
+	    font-size: 15px;
+	    margin-right: 20px;
+	    font-weight: 700;
+	}
+	.btn-primary {
+	    padding: 8px 9px;
+	    font-size: 12px;
+	}
+
+
+    .partner-section h2 {
+	    font-size: 40px;
+	    padding: 11px 53px;
+	    position: relative;
+	    margin: 60px 0 0;
+	}
+	.partner-section h1 {
+	    font-size: 56px;
+	    padding: 8px 0px;
+	}
+	.partner-section p {
+	    font-size: 25px;
+	}
+	.card-body h5 {
+	    font-size: 16px;
+	    font-weight: 600;
+	    margin: 6px;
+	}
+	.card-body p {
+	    font-size: 14px;
+	}
+	.card-inner h4 {
+	    font-size: 28px;
+	    width: 28%;
+	}
+	.card-inner h6 {
+	    font-size: 17px;
+	    padding: 13px;
+	}
+	.card-inner p {
+	    font-size: 15px;
+	    font-weight: 500;
+	}
+	.feature-section h1 {
+	    font-size: 50px;
+	    padding: 10px 0px 12px;
+	}
+	.feature-conteant h5 {
+	    font-size: 18px;
+	    margin-top: 30px;
+	}
+	.feature-conteant p {
+	    font-size: 14px;
+	    font-weight: 500;
+	    margin-top: 12px;
+	}
+
+	.feature-img img {
+	    height: 50px;
+	}
+	.simpale-section h2 {
+	    font-size: 32px;
+	    margin-bottom: 20px;
+	}
+	.simpale-conteant h1 {
+	    font-size: 70px;
+	}
+	.simpale-conteant h3 {
+	    font-size: 18px;
+	    font-weight: 700;
+	    margin-bottom: 15px;
+	}
+	.simpale-conteant p {
+	    font-size: 15px;
+	    line-height: 20px;
+	}
+	.simpale-section .btn-info {
+	    margin-left: 341px;
+	    font-size: 13px;
+	    padding: 12px 20px;
+
+	}
+	.footer-inner h4 {
+	    font-size: 20px;
+	    margin-bottom: 16px;
+	}
+	.footer-inner ul li a {
+	    font-size: 16px;
+	}
+	.footer-inner ul li {
+	    margin-bottom: 7px;
+	}
+	.footer-section {
+	    padding: 50px 0px;
+	}
+	.main-footer p {
+	    font-size: 14px;
+	    font-weight: 500;
+	}		
+
+
+}
+@media (max-width: 991px){
+
+
+   
+}
+@media (max-width: 767px){
+
+}
+@media (max-width: 575px){
+
+}
+@media (max-width: 400px){
+
+}
